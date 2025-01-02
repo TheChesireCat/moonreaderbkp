@@ -1,0 +1,53 @@
+com.flyersoft.moonreaderp/databases/ads.db
+com.flyersoft.moonreaderp/databases/mrbooks.db-journal
+com.flyersoft.moonreaderp/databases/mrbooks.db
+com.flyersoft.moonreaderp/shared_prefs/com.google.android.gms.signin.xml
+com.flyersoft.moonreaderp/shared_prefs/pdf_words_failed.xml
+com.flyersoft.moonreaderp/shared_prefs/long_link_book.xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Outdoor Pure white.xml
+com.flyersoft.moonreaderp/shared_prefs/search_history.list
+com.flyersoft.moonreaderp/shared_prefs/select_bar
+com.flyersoft.moonreaderp/shared_prefs/isFootnoteEpub.xml
+com.flyersoft.moonreaderp/shared_prefs/com.facebook.ads.internal.btextras.xml
+com.flyersoft.moonreaderp/shared_prefs/com.facebook.ads.idfa.xml
+com.flyersoft.moonreaderp/shared_prefs/network2_PdfDrive.com.xml
+com.flyersoft.moonreaderp/shared_prefs/network2_LibGenesis.xml
+com.flyersoft.moonreaderp/shared_prefs/network2_BookBoon.com.xml
+com.flyersoft.moonreaderp/shared_prefs/network2_Archive.org.xml
+com.flyersoft.moonreaderp/shared_prefs/com.facebook.ads.AD_REPORTING_CONFIG.xml
+com.flyersoft.moonreaderp/shared_prefs/com.google.android.gms.measurement.prefs.xml
+com.flyersoft.moonreaderp/shared_prefs/DEBUG_PREF.xml
+com.flyersoft.moonreaderp/shared_prefs/com.flyersoft.moonreader_preferences.xml
+com.flyersoft.moonreaderp/shared_prefs/reader_bar_icons
+com.flyersoft.moonreaderp/shared_prefs/files_search
+com.flyersoft.moonreaderp/shared_prefs/com.facebook.ads.FEATURE_CONFIG.xml
+com.flyersoft.moonreaderp/shared_prefs/tts_filter
+com.flyersoft.moonreaderp/shared_prefs/pdf_toc_failed.xml
+com.flyersoft.moonreaderp/shared_prefs/admob.xml
+com.flyersoft.moonreaderp/shared_prefs/SDKIDFA.xml
+com.flyersoft.moonreaderp/shared_prefs/FBAdPrefs.xml
+com.flyersoft.moonreaderp/shared_prefs/ratio.xml
+com.flyersoft.moonreaderp/shared_prefs/options1002.xml
+com.flyersoft.moonreaderp/shared_prefs/network2_mobileread.com.xml
+com.flyersoft.moonreaderp/shared_prefs/network2_gutenberg.org.xml
+com.flyersoft.moonreaderp/shared_prefs/network2_feedbooks.com.xml
+com.flyersoft.moonreaderp/shared_prefs/favfolders6
+com.flyersoft.moonreaderp/shared_prefs/history.txt
+com.flyersoft.moonreaderp/shared_prefs/theme_circle_only.xml
+com.flyersoft.moonreaderp/shared_prefs/dict_history.xml
+com.flyersoft.moonreaderp/shared_prefs/shelf_search
+com.flyersoft.moonreaderp/shared_prefs/positions10.xml
+com.flyersoft.moonreaderp/shared_prefs/shelf_top_books
+com.flyersoft.moonreaderp/shared_prefs/theme_nature.xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Outdoor (Pure white).xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Night Theme.xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Night 3.xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Night 2.xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Night 1 (True black).xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Day Theme.xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Day 3.xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Day 2.xml
+com.flyersoft.moonreaderp/shared_prefs/theme_Day 1.xml
+com.flyersoft.moonreaderp/shared_prefs/embryo.xml
+com.flyersoft.moonreaderp/shared_prefs/AwOriginVisitLoggerPrefs.xml
+com.flyersoft.moonreaderp/shared_prefs/last_fav_index.xml
